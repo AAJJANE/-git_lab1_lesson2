@@ -1,0 +1,2 @@
+Отличия master и demo:
+Commits that exist in origin/demo but don't exist in master
