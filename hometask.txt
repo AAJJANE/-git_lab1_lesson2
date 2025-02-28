@@ -1,2 +1,12 @@
 Отличия master и demo:
 Commits that exist in origin/demo but don't exist in master
+
+комменты из удалённого репозитория(всего их 8):
+Merge branch 'buttons' into demo
+fix readme
+dots
+README added
+Merge branch 'boots' into release
+boots
+heat added
+init
